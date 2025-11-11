@@ -210,9 +210,7 @@ Add a new developer to the directory.
 
 Feel free to fork this project and submit pull requests for any improvements.
 
-## 📧 Contact
 
-For any queries regarding this project, please contact: intern@talrn.com
 
 ## 📄 License
 
